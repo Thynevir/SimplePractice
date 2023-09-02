@@ -1,5 +1,6 @@
 package practice;
 import java.util.*;
+//import java.util.stream.IntStream;
 
 public class SmallestIntegerInArray {
 	// initiate arrays
@@ -14,6 +15,7 @@ public class SmallestIntegerInArray {
 		Arrays.sort(arr);
 		
 		return arr[0];
+		//return IntStream.of(args).min().getAsInt();
 	}
 
 }
