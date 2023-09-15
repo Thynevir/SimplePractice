@@ -27,6 +27,7 @@ public class NumberToReversedArray {
 		}
 		
 		return array;
+		//return new StringBuilder().append(n).reverse().chars().map(Character::getNumericValue).toArray();
 	}
 
 }
