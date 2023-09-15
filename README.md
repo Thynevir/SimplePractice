@@ -1,2 +1,2 @@
 # SimplePractice
-Practice that reruie few lines to complete the challenge/objective
+Practice that requires few lines to complete the challenge/objective
