@@ -24,6 +24,7 @@ public class DNAtoRNA {
 	      }
 	      
 	      return rna;
+	      //can be done in a single line: 
+	      //return dna.replace("T", "U");
 	    } 
 	}
-
